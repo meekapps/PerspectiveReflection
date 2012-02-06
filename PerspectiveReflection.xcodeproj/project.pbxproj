@@ -20,6 +20,7 @@
 		4103C64414D7BC7500827479 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4103C64114D7BC7500827479 /* ViewController.xib */; };
 		4103C64614D7BC9500827479 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4103C64514D7BC9500827479 /* QuartzCore.framework */; };
 		4103C64814D7BCA900827479 /* mim.png in Resources */ = {isa = PBXBuildFile; fileRef = 4103C64714D7BCA900827479 /* mim.png */; };
+		4183DDE514E0614F002C3253 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4183DDE414E0614F002C3253 /* Default.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		4103C64114D7BC7500827479 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 		4103C64514D7BC9500827479 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		4103C64714D7BCA900827479 /* mim.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mim.png; sourceTree = "<group>"; };
+		4183DDE414E0614F002C3253 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		4103C60714D7BC4900827479 = {
 			isa = PBXGroup;
 			children = (
+				4183DDE414E0614F002C3253 /* Default.png */,
 				4103C63B14D7BC6300827479 /* icon114.png */,
 				4103C63914D7BC6000827479 /* icon57.png */,
 				4103C63714D7BC5A00827479 /* Default@2x.png */,
@@ -170,6 +173,7 @@
 				4103C63C14D7BC6300827479 /* icon114.png in Resources */,
 				4103C64414D7BC7500827479 /* ViewController.xib in Resources */,
 				4103C64814D7BCA900827479 /* mim.png in Resources */,
+				4183DDE514E0614F002C3253 /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +290,7 @@
 				4103C63214D7BC4900827479 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
